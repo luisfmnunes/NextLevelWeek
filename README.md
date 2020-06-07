@@ -38,7 +38,7 @@ Instalando as dependências do backend da aplicação:
 cd server
 npm install
 ```
-Em seguida deve ser configuradas as migrations do banco de dados e o seed do mesmo com os seguintes comandos:
+Em seguida, devem ser configuradas as migrations do banco de dados e o seed do mesmo com os seguintes comandos:
 
 ```bash
 npm run knex:migrate
